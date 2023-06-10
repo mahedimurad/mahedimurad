@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahedi Murad</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/aditya-banner.png"> </div>
+<div align="center"> <img src="https://www.linkpicture.com/view.php?img=LPic6483d429ca35d1087299076"> </div>
 <h3 align="center">A passionate Android app developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
